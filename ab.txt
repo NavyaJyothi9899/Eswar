@@ -21,3 +21,4 @@ int main() {
        printf("%d is NOT a Prime Number\n", n);
    return 0;
 }
+
